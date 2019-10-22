@@ -1,0 +1,10 @@
+C:\Users\alexandracrisan\source\repos\Lab1-SubstitutionCipher\Lab1-SubstitutionCipher\bin\Debug\Lab1-SubstitutionCipher.exe.config
+C:\Users\alexandracrisan\source\repos\Lab1-SubstitutionCipher\Lab1-SubstitutionCipher\bin\Debug\Lab1-SubstitutionCipher.exe
+C:\Users\alexandracrisan\source\repos\Lab1-SubstitutionCipher\Lab1-SubstitutionCipher\bin\Debug\Lab1-SubstitutionCipher.pdb
+C:\Users\alexandracrisan\source\repos\Lab1-SubstitutionCipher\Lab1-SubstitutionCipher\obj\Debug\Lab1-SubstitutionCipher.csprojAssemblyReference.cache
+C:\Users\alexandracrisan\source\repos\Lab1-SubstitutionCipher\Lab1-SubstitutionCipher\obj\Debug\Lab1_SubstitutionCipher.Form1.resources
+C:\Users\alexandracrisan\source\repos\Lab1-SubstitutionCipher\Lab1-SubstitutionCipher\obj\Debug\Lab1_SubstitutionCipher.Properties.Resources.resources
+C:\Users\alexandracrisan\source\repos\Lab1-SubstitutionCipher\Lab1-SubstitutionCipher\obj\Debug\Lab1-SubstitutionCipher.csproj.GenerateResource.cache
+C:\Users\alexandracrisan\source\repos\Lab1-SubstitutionCipher\Lab1-SubstitutionCipher\obj\Debug\Lab1-SubstitutionCipher.csproj.CoreCompileInputs.cache
+C:\Users\alexandracrisan\source\repos\Lab1-SubstitutionCipher\Lab1-SubstitutionCipher\obj\Debug\Lab1-SubstitutionCipher.exe
+C:\Users\alexandracrisan\source\repos\Lab1-SubstitutionCipher\Lab1-SubstitutionCipher\obj\Debug\Lab1-SubstitutionCipher.pdb
