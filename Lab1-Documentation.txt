@@ -1,0 +1,50 @@
+Lab 1 - Classical cryptography
+
+Crisan Alexandra Bianca
+
+932/1
+
+2. Substitution cipher 
+
+Graphical interface: 
+- Windows Forms application
+- a text box for each possible input: plain text, encryption key, and cipher text
+- a text box for the decryption key (computed only when decrypting)
+- 3 buttons: encrypt, decrypt and reset (clear all text boxes) 
+
+Encryption:
+- performed when the Encrypt button is clicked
+- retrieves the plain text and the encryption key typed by the user
+- validates input
+- each letter from the plain text is replaced with the corresponding letter in the cipher
+alphabet (encryption key)
+
+Decryption:
+- performed when the Decrypt button is clicked
+- retrieves the cipher text and the encryption key typed by the user
+- validates input
+- compute the decryption key using the normal alphabet and the encryption key
+- we replace the corresponding letters but this time from the decryption key that we found 
+
+Auxiliary methods:
+- validate text: check if the user followed the requirements - only letters of the 
+english alphabet and whitespaces allowed (27 characters)
+- validate key: check if all the letters of the alphabet are there, and nothing else 
+(except whitespace)
+- validate input: check if the text and the key are valid
+
+Examples to run:
+1) ENCRYPT
+plain text: "the quick brown fox jumps over the lazy dog"
+encryption key: " YHKQGVXFOLUAPWMTZECJDBSNRI" 
+
+=> cipher text: "JFG ZDOKU HEMSW VMN LDPTC MBGE JFG AYIR QMX"
+
+2) DECRYPT
+cipher text: "GIUIFG CEI IPRC TPNN DU CEI QPRCNI"
+encryption key: " PHQGIUMEAYLNOFDXJKRCVSTZWB"
+
+=> decryption key: " IZTOHNDBEQRKGLMACSVWFUYPJX"
+   plain text: "defend the east wall of the castle"
+
+
